@@ -13,7 +13,6 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 ```
 
-
 This is different from Rails, in which routes are contained in the config>routes file, and are coded as follows:
 
 ```
