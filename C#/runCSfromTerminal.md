@@ -1,3 +1,5 @@
+7/20/17
+
 To run a C# file from the Terminal, youll need to have Mono downloaded. http://www.mono-project.com/ To check if it's downloaded, type 'mono' and youll see a list of Monno command options. You may need to download an older version, if this doesn't work. (Try version 4.3.2 from  https://download.mono-project.com/archive/) 
 
 Quit your terminal and re-open.
