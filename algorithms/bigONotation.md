@@ -16,6 +16,8 @@ def findDuplicates(array)
     if times_repeated > 1
       puts original_value
       return true
+    else
+      return false  
     end  
   end  
 end
