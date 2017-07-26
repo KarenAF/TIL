@@ -27,4 +27,4 @@ Write     | Result    |
 ----------|-----------|
 3 \&lt; 8 | 3 < 8     | 
 
-<mark> Testing highlighting
+<mark> Testing highlighting </mark>
