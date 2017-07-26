@@ -26,3 +26,5 @@ To escape a left angle bracket, use `&lt;`
 Write     | Result    | 
 ----------|-----------|
 3 \&lt; 8 | 3 < 8     | 
+
+<mark> Testing highlighting
