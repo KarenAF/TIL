@@ -12,6 +12,12 @@ To escape an ampersand so that it shows up in text, use
     </tr>
 </table>
 
+Write     | Result    | 
+----------|-----------|
+PB\&amp;J | PB&J      | 
+
+
+
  <br />
 
 
@@ -26,3 +32,7 @@ To escape a left angle bracket, use `&lt;`
         <td> 3 < 8 </td>
     </tr>
 </table>
+
+Write     | Result    | 
+----------|-----------|
+3 \&lt; 8 | 3 < 8     | 
