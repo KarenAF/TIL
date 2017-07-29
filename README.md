@@ -30,8 +30,8 @@
       <td>https://github.com/KarenAF/TIL/blob/master/HTML/escaping.md</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>7/29/17</td>
+      <td>https://github.com/KarenAF/TIL/blob/master/Editors/atom.md</td>
     </tr>
     <tr>
       <td></td>
