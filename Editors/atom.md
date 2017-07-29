@@ -8,4 +8,5 @@ I wasn't actually sure how to install Markdown-pdf, since his github repo at htt
 
 And voila. 
 
-After it's done installing, it will automatically show up in the list of Packages you currently you have installed. See Packages > Markdown-Pdf in the top menu bar. From there, you can click "convert," which converts whatever markdown page you have open and focused on in the Markdown preview. (Make sure you have Markdown preview on.) (Packages > Markdown Preview > "Toggle Preview: ctrl + shift + M") 
+After it's done installing, it will automatically show up in the list of Packages you currently you have installed. See Packages > Markdown-Pdf in the top menu bar. From there, you can click "convert," which converts whatever markdown page you have open and focused on in the Markdown preview. (To turn on markdown preview, go to Packages > Markdown Preview > "Toggle Preview: ctrl + shift + M") 
+Make sure your cursor is focused/clicked on the markdown page, not the markdown preview pane, otherwise the pdf that's created will be a blank page.
