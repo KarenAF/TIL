@@ -34,8 +34,8 @@
       <td>https://github.com/KarenAF/TIL/blob/master/Editors/atom.md</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>10/5/17</td>
+      <td>https://github.com/KarenAF/TIL/blob/master/Editors/VisualStudio.md</td>
     </tr>
     <tr>
       <td></td>
