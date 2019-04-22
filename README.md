@@ -15,7 +15,7 @@
     </tr>
     <tr>
       <td>7/20/17</td>
-      <td>https://github.com/KarenAF/TIL/blob/master/C#/runCSfromTerminal.md</td>
+      <td>https://github.com/KarenAF/TIL/blob/master/C%23/runCSfromTerminal.md</td>
     </tr>
     <tr>
       <td>7/21/17</td>
